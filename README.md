@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nethesh Dineshara</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif">
+<img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nethdin&label=Profile%20views&color=0e75b6&style=flat" alt="nethdin" /> </p>
 
@@ -24,6 +24,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nethdin&show_icons=true&locale=en" alt="nethdin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nethdin&" alt="nethdin" /></p>
+
+
+
+
+
 
 
 
